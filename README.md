@@ -44,7 +44,7 @@ java -jar QuickSNP.jar -i <sample.mpileup> -o <sample.snp.txt> -a <maximum_refer
 
 Options:
 
-    |     |
+  
 --- | --- | ---
  -i	| String	 | Input File in mpileup format
  -o	 | String	 | Output File (default:stdout)
