@@ -44,7 +44,7 @@ java -jar QuickSNP.jar -i <sample.mpileup> -o <sample.snp.txt> -a <maximum_refer
 
 Options:
 
-  
+Parameter | | Description  
 --- | --- | ---
  -i	| String	 | Input File in mpileup format
  -o	 | String	 | Output File (default:stdout)
@@ -63,7 +63,7 @@ java -jar SimleHunter.jar -w <wt.snps.txt> -i <m1.snps.txt> [<m2.snps.txt> ...] 
 
 Options:
 
-    |     |
+Parameter | | Description
 --- | --- | ---
  -w	| String	 | SNP calls from self mapping of wildtyp
  -i	 | List of Strings	 | SNP calls from individual mappings of mutants
