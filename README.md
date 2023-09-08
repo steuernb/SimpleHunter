@@ -3,7 +3,7 @@ A light-weight java program to find loci of interest in a genomics mutant screen
 
 
 This code was written to support Emily Tipper (JIC) for a mutational genomics experiment in her PhD thesis.
-It is designed to find loci of interest in a mutant screen. SNPs are called in individual samples as well as a wildtype self-mapping. Then data is integrating highlighting loci in a genome where multiple samples have SNPs at different positions.
+It is designed to find loci of interest in a mutant screen. SNPs are called in individual samples as well as a wildtype self-mapping. Then data is integrated highlighting loci in a genome where multiple samples have SNPs at different positions.
 
 ## Prerequisites:
 
